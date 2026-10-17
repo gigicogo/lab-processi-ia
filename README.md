@@ -1,15 +1,4 @@
-# Laboratorio IA e processi dell'ente — Reggio Emilia
-
-Web app statica in **un solo file HTML**, senza backend, database, framework, CDN o dipendenze esterne.
-
-## Pubblicazione su GitHub Pages
-
-1. Crea un repository pubblico (es. `laboratorio-ia-processi`).
-2. Carica `index.html` nella radice del repository.
-3. In **Settings → Pages**, scegli **Deploy from a branch**, branch **main**, cartella **/(root)**, e salva.
-4. Dopo la pubblicazione, il sito sarà indicativamente su `https://TUO-UTENTE.github.io/laboratorio-ia-processi/` (verifica l'indirizzo effettivo in Settings → Pages).
-
-Puoi aprire `index.html` direttamente nel browser per provarlo, anche offline.
+# Laboratorio IA e processi dell'Ente
 
 ## Caratteristiche
 
