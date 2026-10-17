@@ -14,6 +14,3 @@
 
 Non inserire dati personali, riservati o relativi a pratiche reali. I dati restano nella memoria locale del browser fino alla cancellazione, ma possono essere accessibili a chi utilizza lo stesso profilo/dispositivo. Su computer condivisi usare «Cancella dati da questo browser». Un export JSON o PDF contiene quanto inserito dagli utenti e va conservato in modo appropriato.
 
-## Adattamento
-
-Testi, colori e logica sono tutti contenuti nel file `index.html` (sezioni `<style>` e `<script>`). Non serve compilare nulla.
